@@ -22,6 +22,6 @@ This team will disolve on 31st Dec 2020.
 |Volunteer| Mr. Aditya Bobde | 6th Jan 2020 | Present |  
 |Volunteer| Mr. Romir Mathur | 6th Jan 2020 | Present |
 |Volunteer| Ms. Ruchi Chaturvedi | 6th Jan 2020 | Present |
-
+|Volunteer| Ms. Riddhi Mandal | 6th Jan 2020 | Present |
 ![Group Photo](https://github.com/IEEE-CIS-GHRCE-62361B/Team-2020/blob/master/WhatsApp%20Image%202020-04-10%20at%208.56.55%20PM.jpeg)
 
